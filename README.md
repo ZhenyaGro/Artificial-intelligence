@@ -6,8 +6,6 @@
 
 ### **Статус:** в процессе.
 
-### Результат доступен по [ссылке](https://zhenyagro.github.io/AutomationTool_Layout/).
-
 ***
 
 ### En
