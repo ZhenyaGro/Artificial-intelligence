@@ -180,7 +180,7 @@ body {
     grid-template-columns: repeat(1, 362px);
   }
 
-  .item_big {
+  .item-big {
     grid-column: span 1;
     grid-row: span 1;
     gap: 30px;
